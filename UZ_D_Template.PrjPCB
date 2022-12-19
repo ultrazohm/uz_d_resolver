@@ -49,7 +49,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=UZ_D_Template.PcbDoc
+DocumentPath=Resolver.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134,23 +134,6 @@ GenerateClassCluster=0
 DocumentUniqueId=TOUXSEWW
 
 [Document6]
-DocumentPath=DigitalCarrierJack.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
 DocumentPath=Resolver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ULOAWBMK
 
-[Document8]
+[Document7]
 DocumentPath=Buffer_EXC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LOPHOCDG
 
-[Document9]
+[Document8]
 DocumentPath=Impedance converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,42 +184,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NVCHRWOD
 
-[Document10]
-DocumentPath=TopSheet.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [Parameter1]
-Name=Author
-Value=A. Musterfrau
+Name=ProjectRevision
+Value=Rev01
 
 [Parameter2]
-Name=AuthorParam
-Value=A. Musterfrau
+Name=ProjectNameCustom
+Value=UZ_D_Template
 
 [Parameter3]
 Name=Date
 Value=11/2019
 
 [Parameter4]
-Name=ProjectNameCustom
-Value=UZ_D_Template
+Name=AuthorParam
+Value=A. Musterfrau
 
 [Parameter5]
-Name=ProjectRevision
-Value=Rev01
+Name=Author
+Value=A. Musterfrau
 
 [Configuration1]
 Name=Sources
