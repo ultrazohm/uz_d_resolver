@@ -1,0 +1,551 @@
+Removed Pin From Net: NetName=5V_PER_fused Pin=BS2B-2
+Removed Pin From Net: NetName=5V_PER_fused Pin=BS2C-2
+Removed Pin From Net: NetName=3V3_PER_fused Pin=C7B-2
+Removed Pin From Net: NetName=3V3_PER_fused Pin=C7C-2
+Removed Pin From Net: NetName=3V3_PER_fused Pin=C10B-2
+Removed Pin From Net: NetName=3V3_PER_fused Pin=C10C-2
+Removed Pin From Net: NetName=3V3_PER_fused Pin=R10B-2
+Removed Pin From Net: NetName=3V3_PER_fused Pin=R10C-2
+Removed Pin From Net: NetName=3V3_PER_fused Pin=R13B-2
+Removed Pin From Net: NetName=3V3_PER_fused Pin=R13C-2
+Removed Pin From Net: NetName=3V3_PER_fused Pin=R15B-2
+Removed Pin From Net: NetName=3V3_PER_fused Pin=R15C-2
+Removed Pin From Net: NetName=3V3_PER_fused Pin=R18B-2
+Removed Pin From Net: NetName=3V3_PER_fused Pin=R18C-2
+Removed Pin From Net: NetName=3V3_PER_fused Pin=R19B-2
+Removed Pin From Net: NetName=3V3_PER_fused Pin=R19C-2
+Removed Pin From Net: NetName=3V3_PER_fused Pin=R21B-2
+Removed Pin From Net: NetName=3V3_PER_fused Pin=R21C-2
+Removed Pin From Net: NetName=3V3_PER_fused Pin=U1B-18
+Removed Pin From Net: NetName=3V3_PER_fused Pin=U1C-18
+Removed Pin From Net: NetName=3V3_PER_fused Pin=X2-1
+Removed Pin From Net: NetName=DIG_IO_29 Pin=X2-3
+Removed Pin From Net: NetName=5V_PER_fused Pin=X2-5
+Removed Pin From Net: NetName=DIG_IO_28 Pin=X2-7
+Removed Pin From Net: NetName=DIG_IO_27 Pin=X2-11
+Change Component Designator: OldDesignator=D3 NewDesignator=D5
+Change Component Designator: OldDesignator=D4A NewDesignator=D8A
+Change Component Designator: OldDesignator=D4B NewDesignator=D8B
+Change Component Designator: OldDesignator=D4C NewDesignator=D8C
+Change Component Designator: OldDesignator=D5A NewDesignator=D9A
+Change Component Designator: OldDesignator=D5B NewDesignator=D9B
+Change Component Designator: OldDesignator=D5C NewDesignator=D9C
+Change Component Designator: OldDesignator=D6A NewDesignator=D10A
+Change Component Designator: OldDesignator=D6B NewDesignator=D10B
+Change Component Designator: OldDesignator=D6C NewDesignator=D10C
+Change Component Designator: OldDesignator=D7A NewDesignator=D11A
+Change Component Designator: OldDesignator=D7B NewDesignator=D11B
+Change Component Designator: OldDesignator=D7C NewDesignator=D11C
+Change Component Designator: OldDesignator=D8A NewDesignator=D12A
+Change Component Designator: OldDesignator=D8B NewDesignator=D12B
+Change Component Designator: OldDesignator=D8C NewDesignator=D12C
+Change Component Designator: OldDesignator=D9A NewDesignator=D13A
+Change Component Designator: OldDesignator=D9B NewDesignator=D13B
+Change Component Designator: OldDesignator=D9C NewDesignator=D13C
+Change Component Designator: OldDesignator=F3 NewDesignator=F5
+Change Component Designator: OldDesignator=R4 NewDesignator=R8
+Change Component Designator: OldDesignator=R5 NewDesignator=R9
+Change Component Designator: OldDesignator=R6 NewDesignator=R10
+Change Component Designator: OldDesignator=R7 NewDesignator=R4
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9A NewDesignator=R13A
+Change Component Designator: OldDesignator=R9B NewDesignator=R13B
+Change Component Designator: OldDesignator=R9C NewDesignator=R13C
+Change Component Designator: OldDesignator=R10A NewDesignator=R14A
+Change Component Designator: OldDesignator=R10B NewDesignator=R14B
+Change Component Designator: OldDesignator=R10C NewDesignator=R14C
+Change Component Designator: OldDesignator=R11A NewDesignator=R15A
+Change Component Designator: OldDesignator=R11B NewDesignator=R15B
+Change Component Designator: OldDesignator=R11C NewDesignator=R15C
+Change Component Designator: OldDesignator=R12A NewDesignator=R16A
+Change Component Designator: OldDesignator=R12B NewDesignator=R16B
+Change Component Designator: OldDesignator=R12C NewDesignator=R16C
+Change Component Designator: OldDesignator=R13A NewDesignator=R17A
+Change Component Designator: OldDesignator=R13B NewDesignator=R17B
+Change Component Designator: OldDesignator=R13C NewDesignator=R17C
+Change Component Designator: OldDesignator=R14A NewDesignator=R18A
+Change Component Designator: OldDesignator=R14B NewDesignator=R18B
+Change Component Designator: OldDesignator=R14C NewDesignator=R18C
+Change Component Designator: OldDesignator=R15A NewDesignator=R19A
+Change Component Designator: OldDesignator=R15B NewDesignator=R19B
+Change Component Designator: OldDesignator=R15C NewDesignator=R19C
+Change Component Designator: OldDesignator=R16A NewDesignator=R20A
+Change Component Designator: OldDesignator=R16B NewDesignator=R20B
+Change Component Designator: OldDesignator=R16C NewDesignator=R20C
+Change Component Designator: OldDesignator=R17A NewDesignator=R21A
+Change Component Designator: OldDesignator=R17B NewDesignator=R21B
+Change Component Designator: OldDesignator=R17C NewDesignator=R21C
+Change Component Designator: OldDesignator=R18A NewDesignator=R22A
+Change Component Designator: OldDesignator=R18B NewDesignator=R22B
+Change Component Designator: OldDesignator=R18C NewDesignator=R22C
+Change Component Designator: OldDesignator=R19A NewDesignator=R23A
+Change Component Designator: OldDesignator=R19B NewDesignator=R23B
+Change Component Designator: OldDesignator=R19C NewDesignator=R23C
+Change Component Designator: OldDesignator=R20A NewDesignator=R24A
+Change Component Designator: OldDesignator=R20B NewDesignator=R24B
+Change Component Designator: OldDesignator=R20C NewDesignator=R24C
+Change Component Designator: OldDesignator=R21A NewDesignator=R25A
+Change Component Designator: OldDesignator=R21B NewDesignator=R25B
+Change Component Designator: OldDesignator=R21C NewDesignator=R25C
+Change Component Designator: OldDesignator=R22A NewDesignator=R26A
+Change Component Designator: OldDesignator=R22B NewDesignator=R26B
+Change Component Designator: OldDesignator=R22C NewDesignator=R26C
+Change Component Designator: OldDesignator=R23A NewDesignator=R27A
+Change Component Designator: OldDesignator=R23B NewDesignator=R27B
+Change Component Designator: OldDesignator=R23C NewDesignator=R27C
+Change Component Designator: OldDesignator=R24A NewDesignator=R28A
+Change Component Designator: OldDesignator=R24B NewDesignator=R28B
+Change Component Designator: OldDesignator=R24C NewDesignator=R28C
+Change Component Designator: OldDesignator=R25A NewDesignator=R29A
+Change Component Designator: OldDesignator=R25B NewDesignator=R29B
+Change Component Designator: OldDesignator=R25C NewDesignator=R29C
+Change Component Designator: OldDesignator=R26A NewDesignator=R30A
+Change Component Designator: OldDesignator=R26B NewDesignator=R30B
+Change Component Designator: OldDesignator=R26C NewDesignator=R30C
+Change Component Designator: OldDesignator=R27A NewDesignator=R31A
+Change Component Designator: OldDesignator=R27B NewDesignator=R31B
+Change Component Designator: OldDesignator=R27C NewDesignator=R31C
+Change Component Designator: OldDesignator=R28A NewDesignator=R32A
+Change Component Designator: OldDesignator=R28B NewDesignator=R32B
+Change Component Designator: OldDesignator=R28C NewDesignator=R32C
+Change Component Designator: OldDesignator=R29A NewDesignator=R33A
+Change Component Designator: OldDesignator=R29B NewDesignator=R33B
+Change Component Designator: OldDesignator=R29C NewDesignator=R33C
+Change Component Designator: OldDesignator=R30A NewDesignator=R34A
+Change Component Designator: OldDesignator=R30B NewDesignator=R34B
+Change Component Designator: OldDesignator=R30C NewDesignator=R34C
+Change Component Designator: OldDesignator=R31A NewDesignator=R35A
+Change Component Designator: OldDesignator=R31B NewDesignator=R35B
+Change Component Designator: OldDesignator=R31C NewDesignator=R35C
+Change Component Designator: OldDesignator=R32A NewDesignator=R36A
+Change Component Designator: OldDesignator=R32B NewDesignator=R36B
+Change Component Designator: OldDesignator=R32C NewDesignator=R36C
+Change Component Designator: OldDesignator=R33A NewDesignator=R37A
+Change Component Designator: OldDesignator=R33B NewDesignator=R37B
+Change Component Designator: OldDesignator=R33C NewDesignator=R37C
+Change Component Designator: OldDesignator=R34A NewDesignator=R38A
+Change Component Designator: OldDesignator=R34B NewDesignator=R38B
+Change Component Designator: OldDesignator=R34C NewDesignator=R38C
+Change Component Designator: OldDesignator=R35A NewDesignator=R39A
+Change Component Designator: OldDesignator=R35B NewDesignator=R39B
+Change Component Designator: OldDesignator=R35C NewDesignator=R39C
+Change Component Designator: OldDesignator=R36A NewDesignator=R40A
+Change Component Designator: OldDesignator=R36B NewDesignator=R40B
+Change Component Designator: OldDesignator=R36C NewDesignator=R40C
+Change Component Designator: OldDesignator=R37A NewDesignator=R41A
+Change Component Designator: OldDesignator=R37B NewDesignator=R41B
+Change Component Designator: OldDesignator=R37C NewDesignator=R41C
+Change Component Designator: OldDesignator=R38A NewDesignator=R42A
+Change Component Designator: OldDesignator=R38B NewDesignator=R42B
+Change Component Designator: OldDesignator=R38C NewDesignator=R42C
+Change Component Designator: OldDesignator=R39A NewDesignator=R43A
+Change Component Designator: OldDesignator=R39B NewDesignator=R43B
+Change Component Designator: OldDesignator=R39C NewDesignator=R43C
+Change Component Designator: OldDesignator=R40A NewDesignator=R44A
+Change Component Designator: OldDesignator=R40B NewDesignator=R44B
+Change Component Designator: OldDesignator=R40C NewDesignator=R44C
+Change Component Designator: OldDesignator=R41A NewDesignator=R45A
+Change Component Designator: OldDesignator=R41B NewDesignator=R45B
+Change Component Designator: OldDesignator=R41C NewDesignator=R45C
+Change Component Designator: OldDesignator=R42A NewDesignator=R46A
+Change Component Designator: OldDesignator=R42B NewDesignator=R46B
+Change Component Designator: OldDesignator=R42C NewDesignator=R46C
+Change Component Designator: OldDesignator=R43A NewDesignator=R47A
+Change Component Designator: OldDesignator=R43B NewDesignator=R47B
+Change Component Designator: OldDesignator=R43C NewDesignator=R47C
+Change Component Designator: OldDesignator=R44A NewDesignator=R48A
+Change Component Designator: OldDesignator=R44B NewDesignator=R48B
+Change Component Designator: OldDesignator=R44C NewDesignator=R48C
+Change Component Designator: OldDesignator=R45A NewDesignator=R49A
+Change Component Designator: OldDesignator=R45B NewDesignator=R49B
+Change Component Designator: OldDesignator=R45C NewDesignator=R49C
+Change Component Designator: OldDesignator=R46A NewDesignator=R50A
+Change Component Designator: OldDesignator=R46B NewDesignator=R50B
+Change Component Designator: OldDesignator=R46C NewDesignator=R50C
+Change Component Designator: OldDesignator=R47A NewDesignator=R51A
+Change Component Designator: OldDesignator=R47B NewDesignator=R51B
+Change Component Designator: OldDesignator=R47C NewDesignator=R51C
+Change Component Designator: OldDesignator=R48A NewDesignator=R52A
+Change Component Designator: OldDesignator=R48B NewDesignator=R52B
+Change Component Designator: OldDesignator=R48C NewDesignator=R52C
+Change Component Designator: OldDesignator=R49A NewDesignator=R53A
+Change Component Designator: OldDesignator=R49B NewDesignator=R53B
+Change Component Designator: OldDesignator=R49C NewDesignator=R53C
+Added Component: Designator=D3(WL-SMCW_0603)
+Add component (AddParameter): Name = "Color"; Value = "red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "LED Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/445/150120RS75000-1714636.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "08.12.2020 10:48:12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current I_f"; Value = "20 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage U_f"; Value = "2 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "03.03.2021 09:59:52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Light Intensity"; Value = "800 mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150060RS86000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Power"; Value = "48 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 - 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "710-150060RS86000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "3408608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "732-150060RS86000CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "624 nm"; VariantName = "[No Variations]"
+Added Component: Designator=D4(WL-SMCW_0603)
+Add component (AddParameter): Name = "Color"; Value = "red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "LED Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/445/150120RS75000-1714636.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "08.12.2020 10:48:12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current I_f"; Value = "20 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage U_f"; Value = "2 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "03.03.2021 09:59:52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Light Intensity"; Value = "800 mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150060RS86000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Power"; Value = "48 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 - 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "710-150060RS86000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "3408608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "732-150060RS86000CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "624 nm"; VariantName = "[No Variations]"
+Added Component: Designator=D6(WL-SMCW_0603)
+Add component (AddParameter): Name = "Color"; Value = "green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "LED Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/445/150060GS75020-1714345.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "08.12.2020 10:41:11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current I_f"; Value = "20 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage U_f"; Value = "3.2 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "03.03.2021 09:59:51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Light Intensity"; Value = "3000 mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150060GS84000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Power"; Value = "78 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 - 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "710-150060GS84000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "3408612"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "732-150060GS84000CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "525 nm"; VariantName = "[No Variations]"
+Added Component: Designator=D7(WL-SMCW_0603)
+Add component (AddParameter): Name = "Color"; Value = "green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "LED Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/445/150060GS75020-1714345.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "08.12.2020 10:41:11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current I_f"; Value = "20 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage U_f"; Value = "3.2 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "03.03.2021 09:59:51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Light Intensity"; Value = "3000 mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "150060GS84000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Power"; Value = "78 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 - 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "710-150060GS84000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "3408612"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "732-150060GS84000CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "525 nm"; VariantName = "[No Variations]"
+Added Component: Designator=F3(1812_PTC_Polyfuse_Littelfuse)
+Add component (AddParameter): Name = "Component Type"; Value = "Littelfuse_PTC_1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_surface_mount_catalog_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2019_02_10_AGeiger"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "07.05.2021 06:50:33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hold Current"; Value = "1.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "27.05.2022 15:06:17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C70119"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "Littelfuse_PTC_1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "miniASMDC110F/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal current"; Value = "1 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 - 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.18 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "530-0ZCG0150BF2C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trip Current"; Value = "2.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "PTC, 1.1 A, 24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "24V"; VariantName = "[No Variations]"
+Added Component: Designator=F4(1812_PTC_Polyfuse_Littelfuse)
+Add component (AddParameter): Name = "Component Type"; Value = "Littelfuse_PTC_1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_surface_mount_catalog_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2019_02_10_AGeiger"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "07.05.2021 06:50:33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hold Current"; Value = "1.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "27.05.2022 15:06:17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C70119"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "Littelfuse_PTC_1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "miniASMDC110F/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal current"; Value = "1 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 - 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.18 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "530-0ZCG0150BF2C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trip Current"; Value = "2.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "PTC, 1.1 A, 24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "24V"; VariantName = "[No Variations]"
+Added Component: Designator=F6(1812_PTC_Polyfuse_Littelfuse)
+Add component (AddParameter): Name = "Component Type"; Value = "Littelfuse_PTC_1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_surface_mount_catalog_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2019_02_10_AGeiger"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "07.05.2021 06:50:33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hold Current"; Value = "1.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "27.05.2022 15:06:17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C70119"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "Littelfuse_PTC_1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "miniASMDC110F/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal current"; Value = "1 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 - 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.18 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "530-0ZCG0150BF2C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trip Current"; Value = "2.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "PTC, 1.1 A, 24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "24V"; VariantName = "[No Variations]"
+Added Component: Designator=F7(1812_PTC_Polyfuse_Littelfuse)
+Add component (AddParameter): Name = "Component Type"; Value = "Littelfuse_PTC_1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_surface_mount_catalog_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2019_02_10_AGeiger"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "07.05.2021 06:50:33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hold Current"; Value = "1.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "27.05.2022 15:06:17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C70119"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "Littelfuse_PTC_1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "miniASMDC110F/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal current"; Value = "1 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 - 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.18 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "530-0ZCG0150BF2C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trip Current"; Value = "2.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "PTC, 1.1 A, 24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "24V"; VariantName = "[No Variations]"
+Added Component: Designator=R50(RESC1608X06N)
+Add component (AddParameter): Name = "MF"; Value = "Vishay / Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CRCW060324K9FKEAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CRCW060324K9FKEAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.01k"; VariantName = "[No Variations]"
+Added Component: Designator=R51(RESC1608X06N)
+Add component (AddParameter): Name = "MF"; Value = "Vishay / Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CRCW060324K9FKEAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CRCW060324K9FKEAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.01k"; VariantName = "[No Variations]"
+Added Component: Designator=R52(RESC1608X06N)
+Add component (AddParameter): Name = "MF"; Value = "Vishay / Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CRCW060324K9FKEAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CRCW060324K9FKEAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.3k"; VariantName = "[No Variations]"
+Added Component: Designator=R53(RESC1608X06N)
+Add component (AddParameter): Name = "MF"; Value = "Vishay / Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CRCW060324K9FKEAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "71-CRCW060324K9FKEAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.3k"; VariantName = "[No Variations]"
+Added Component: Designator=X?(HDR2X6)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D7-1
+Added Pin To Net: NetName=5V_PER Pin=F3-1
+Added Pin To Net: NetName=5V_PER Pin=F4-1
+Added Pin To Net: NetName=3V3_PER Pin=F6-1
+Added Pin To Net: NetName=3V3_PER Pin=F7-1
+Added Pin To Net: NetName=GND Pin=X2-3
+Added Pin To Net: NetName=GND Pin=X2-7
+Added Pin To Net: NetName=GND Pin=X2-11
+Added Pin To Net: NetName=DIG_IO_29 Pin=X?-2
+Added Pin To Net: NetName=GND Pin=X?-4
+Added Pin To Net: NetName=DIG_IO_28 Pin=X?-6
+Added Pin To Net: NetName=GND Pin=X?-8
+Added Pin To Net: NetName=VIN_fused Pin=X?-9
+Added Pin To Net: NetName=DIG_IO_27 Pin=X?-10
+Added Pin To Net: NetName=GND Pin=X?-12
+Change Net Name : Old Net Name=3V3_PER_fused New Net Name=3V3_PER_fused1
+Change Net Name : Old Net Name=5V_PER_fused New Net Name=5V_PER_fused1
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD5_2
+Change Net Name : Old Net Name=NetD4A_1 New Net Name=NetD8A_1
+Change Net Name : Old Net Name=NetD4A_2 New Net Name=NetD8A_2
+Change Net Name : Old Net Name=NetD4A_3 New Net Name=NetD8A_3
+Change Net Name : Old Net Name=NetD4B_1 New Net Name=NetD8B_1
+Change Net Name : Old Net Name=NetD4B_2 New Net Name=NetD8B_2
+Change Net Name : Old Net Name=NetD4B_3 New Net Name=NetD8B_3
+Change Net Name : Old Net Name=NetD4C_1 New Net Name=NetD8C_1
+Change Net Name : Old Net Name=NetD4C_2 New Net Name=NetD8C_2
+Change Net Name : Old Net Name=NetD4C_3 New Net Name=NetD8C_3
+Change Net Name : Old Net Name=NetD5A_1 New Net Name=NetD9A_1
+Change Net Name : Old Net Name=NetD5A_2 New Net Name=NetD9A_2
+Change Net Name : Old Net Name=NetD5A_3 New Net Name=NetD9A_3
+Change Net Name : Old Net Name=NetD5B_1 New Net Name=NetD9B_1
+Change Net Name : Old Net Name=NetD5B_2 New Net Name=NetD9B_2
+Change Net Name : Old Net Name=NetD5B_3 New Net Name=NetD9B_3
+Change Net Name : Old Net Name=NetD5C_1 New Net Name=NetD9C_1
+Change Net Name : Old Net Name=NetD5C_2 New Net Name=NetD9C_2
+Change Net Name : Old Net Name=NetD5C_3 New Net Name=NetD9C_3
+Change Net Name : Old Net Name=NetR9A_2 New Net Name=NetR13A_2
+Change Net Name : Old Net Name=NetR9B_2 New Net Name=NetR13B_2
+Change Net Name : Old Net Name=NetR9C_2 New Net Name=NetR13C_2
+Change Net Name : Old Net Name=NetR12A_2 New Net Name=NetR16A_2
+Change Net Name : Old Net Name=NetR12B_2 New Net Name=NetR16B_2
+Change Net Name : Old Net Name=NetR12C_2 New Net Name=NetR16C_2
+Change Net Name : Old Net Name=NetR13A_1 New Net Name=NetR17A_1
+Change Net Name : Old Net Name=NetR13B_1 New Net Name=NetR17B_1
+Change Net Name : Old Net Name=NetR13C_1 New Net Name=NetR17C_1
+Change Net Name : Old Net Name=NetR17A_2 New Net Name=NetR21A_2
+Change Net Name : Old Net Name=NetR17B_2 New Net Name=NetR21B_2
+Change Net Name : Old Net Name=NetR17C_2 New Net Name=NetR21C_2
+Change Net Name : Old Net Name=NetR46A_1 New Net Name=NetR50A_1
+Change Net Name : Old Net Name=NetR46B_1 New Net Name=NetR50B_1
+Change Net Name : Old Net Name=NetR46C_1 New Net Name=NetR50C_1
+Change Net Name : Old Net Name=NetR47A_1 New Net Name=NetR51A_1
+Change Net Name : Old Net Name=NetR47B_1 New Net Name=NetR51B_1
+Change Net Name : Old Net Name=NetR47C_1 New Net Name=NetR51C_1
+Change Net Name : Old Net Name=NetR48A_1 New Net Name=NetR52A_1
+Change Net Name : Old Net Name=NetR48B_1 New Net Name=NetR52B_1
+Change Net Name : Old Net Name=NetR48C_1 New Net Name=NetR52C_1
+Change Net Name : Old Net Name=NetR49A_1 New Net Name=NetR53A_1
+Change Net Name : Old Net Name=NetR49B_1 New Net Name=NetR53B_1
+Change Net Name : Old Net Name=NetR49C_1 New Net Name=NetR53C_1
+Added Pin To Net: NetName=3V3_PER_fused2 Pin=C7B-2
+Added Pin To Net: NetName=3V3_PER_fused2 Pin=C10B-2
+Added Pin To Net: NetName=3V3_PER_fused2 Pin=F6-2
+Added Pin To Net: NetName=3V3_PER_fused2 Pin=R14B-2
+Added Pin To Net: NetName=3V3_PER_fused2 Pin=R17B-2
+Added Pin To Net: NetName=3V3_PER_fused2 Pin=R19B-2
+Added Pin To Net: NetName=3V3_PER_fused2 Pin=R22B-2
+Added Pin To Net: NetName=3V3_PER_fused2 Pin=R23B-2
+Added Pin To Net: NetName=3V3_PER_fused2 Pin=R25B-2
+Added Pin To Net: NetName=3V3_PER_fused2 Pin=R52-2
+Added Pin To Net: NetName=3V3_PER_fused2 Pin=U1B-18
+Added Pin To Net: NetName=3V3_PER_fused2 Pin=X2-1
+Added Net: Name=3V3_PER_fused2
+Added Pin To Net: NetName=3V3_PER_fused3 Pin=C7C-2
+Added Pin To Net: NetName=3V3_PER_fused3 Pin=C10C-2
+Added Pin To Net: NetName=3V3_PER_fused3 Pin=F7-2
+Added Pin To Net: NetName=3V3_PER_fused3 Pin=R14C-2
+Added Pin To Net: NetName=3V3_PER_fused3 Pin=R17C-2
+Added Pin To Net: NetName=3V3_PER_fused3 Pin=R19C-2
+Added Pin To Net: NetName=3V3_PER_fused3 Pin=R22C-2
+Added Pin To Net: NetName=3V3_PER_fused3 Pin=R23C-2
+Added Pin To Net: NetName=3V3_PER_fused3 Pin=R25C-2
+Added Pin To Net: NetName=3V3_PER_fused3 Pin=R53-2
+Added Pin To Net: NetName=3V3_PER_fused3 Pin=U1C-18
+Added Pin To Net: NetName=3V3_PER_fused3 Pin=X?-1
+Added Net: Name=3V3_PER_fused3
+Added Pin To Net: NetName=5V_PER_fused2 Pin=BS2B-2
+Added Pin To Net: NetName=5V_PER_fused2 Pin=F3-2
+Added Pin To Net: NetName=5V_PER_fused2 Pin=R50-2
+Added Pin To Net: NetName=5V_PER_fused2 Pin=X2-5
+Added Net: Name=5V_PER_fused2
+Added Pin To Net: NetName=5V_PER_fused3 Pin=BS2C-2
+Added Pin To Net: NetName=5V_PER_fused3 Pin=F4-2
+Added Pin To Net: NetName=5V_PER_fused3 Pin=R51-2
+Added Pin To Net: NetName=5V_PER_fused3 Pin=X?-5
+Added Net: Name=5V_PER_fused3
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R50-1
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=R51-1
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R52-1
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=R53-1
+Added Net: Name=NetD7_2
+Added Class: Name=3V3_PER_fused[1..3]
+Added Class: Name=5V_PER_fused[1..3]
+Added Member To Class: ClassName=DigitalCarrierJack Member=Component D4 150060RS86000
+Added Member To Class: ClassName=DigitalCarrierJack Member=Component D5 150060GS84000
+Added Member To Class: ClassName=DigitalCarrierJack Member=Component D6 150060GS84000
+Added Member To Class: ClassName=DigitalCarrierJack Member=Component D7 150060GS84000
+Added Member To Class: ClassName=DigitalCarrierJack Member=Component F4 Littelfuse_PTC_1812
+Added Member To Class: ClassName=DigitalCarrierJack Member=Component F5 Littelfuse_PTC_1812
+Added Member To Class: ClassName=DigitalCarrierJack Member=Component F6 Littelfuse_PTC_1812
+Added Member To Class: ClassName=DigitalCarrierJack Member=Component F7 Littelfuse_PTC_1812
+Added Member To Class: ClassName=DigitalCarrierJack Member=Component R50 3.01k
+Added Member To Class: ClassName=DigitalCarrierJack Member=Component R51 3.01k
+Added Member To Class: ClassName=DigitalCarrierJack Member=Component R52 1.3k
+Added Member To Class: ClassName=DigitalCarrierJack Member=Component R53 1.3k
+Added Member To Class: ClassName=DigitalCarrierJack Member=Component X? Header 6X2
