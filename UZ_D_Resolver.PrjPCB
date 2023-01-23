@@ -431,24 +431,24 @@ DocumentPath=Project Outputs for UZ_D_Template\Net Status - Resolver.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectRevision
-Value=Rev01.00
+Name=Author
+Value=Martin Bauer
 
 [Parameter2]
-Name=ProjectNameCustom
-Value=UZ_D_Resolver
+Name=AuthorParam
+Value=Martin Bauer
 
 [Parameter3]
 Name=Date
 Value=20/01/2023
 
 [Parameter4]
-Name=AuthorParam
-Value=Martin Bauer
+Name=ProjectNameCustom
+Value=UZ_D_Resolver
 
 [Parameter5]
-Name=Author
-Value=Martin Bauer
+Name=ProjectRevision
+Value=Rev01.00
 
 [Configuration1]
 Name=Sources
