@@ -43,6 +43,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Default
 
 [Preferences]
 PrefsVaultGUID=
@@ -101,7 +102,7 @@ DocumentUniqueId=
 
 [Document4]
 DocumentPath=TopSheet.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -152,7 +153,7 @@ DocumentUniqueId=ULOAWBMK
 
 [Document7]
 DocumentPath=Buffer_EXC.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -169,7 +170,7 @@ DocumentUniqueId=LOPHOCDG
 
 [Document8]
 DocumentPath=Impedance converter.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -422,6 +423,32 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WUYEDRCC
 
+[ProjectVariant1]
+UniqueID=CCCAA7CA-0A44-4B2C-B029-39AF63BFB225
+Description=Default
+AllowFabrication=0
+ParameterCount=0
+VariationCount=18
+Variation1=Designator=R11A|UniqueId=\1GCDQYXZE\BTBIBFPP|Kind=1|AlternatePart= 
+Variation2=Designator=R11B|UniqueId=\2GCDQYXZE\BTBIBFPP|Kind=1|AlternatePart= 
+Variation3=Designator=R11C|UniqueId=\3GCDQYXZE\BTBIBFPP|Kind=1|AlternatePart= 
+Variation4=Designator=R7A|UniqueId=\1GCDQYXZE\QAJGRNDD|Kind=1|AlternatePart= 
+Variation5=Designator=R7B|UniqueId=\2GCDQYXZE\QAJGRNDD|Kind=1|AlternatePart= 
+Variation6=Designator=R7C|UniqueId=\3GCDQYXZE\QAJGRNDD|Kind=1|AlternatePart= 
+Variation7=Designator=R10A|UniqueId=\1GCDQYXZE\TDOSPFGV|Kind=1|AlternatePart= 
+Variation8=Designator=R10B|UniqueId=\2GCDQYXZE\TDOSPFGV|Kind=1|AlternatePart= 
+Variation9=Designator=R10C|UniqueId=\3GCDQYXZE\TDOSPFGV|Kind=1|AlternatePart= 
+Variation10=Designator=R15A|UniqueId=\1GCDQYXZE\UYQHEXIE|Kind=1|AlternatePart= 
+Variation11=Designator=R15B|UniqueId=\2GCDQYXZE\UYQHEXIE|Kind=1|AlternatePart= 
+Variation12=Designator=R15C|UniqueId=\3GCDQYXZE\UYQHEXIE|Kind=1|AlternatePart= 
+Variation13=Designator=R17A|UniqueId=\1GCDQYXZE\KJABEKLB|Kind=1|AlternatePart= 
+Variation14=Designator=R17B|UniqueId=\2GCDQYXZE\KJABEKLB|Kind=1|AlternatePart= 
+Variation15=Designator=R17C|UniqueId=\3GCDQYXZE\KJABEKLB|Kind=1|AlternatePart= 
+Variation16=Designator=R19B|UniqueId=\2GCDQYXZE\STSPACCK|Kind=1|AlternatePart= 
+Variation17=Designator=R19A|UniqueId=\1GCDQYXZE\STSPACCK|Kind=1|AlternatePart= 
+Variation18=Designator=R19C|UniqueId=\3GCDQYXZE\STSPACCK|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for UZ_D_Resolver\Design Rule Check - UltraZohm_Digital_Resolver.html
 DItemRevisionGUID=
@@ -431,24 +458,24 @@ DocumentPath=Project Outputs for UZ_D_Template\Net Status - Resolver.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=Martin Bauer
+Name=ProjectRevision
+Value=Rev01
 
 [Parameter2]
-Name=AuthorParam
-Value=Martin Bauer
+Name=ProjectNameCustom
+Value=UZ_D_Resolver
 
 [Parameter3]
 Name=Date
 Value=20/01/2023
 
 [Parameter4]
-Name=ProjectNameCustom
-Value=UZ_D_Resolver
+Name=AuthorParam
+Value=Martin Bauer
 
 [Parameter5]
-Name=ProjectRevision
-Value=Rev01.00
+Name=Author
+Value=Martin Bauer
 
 [Configuration1]
 Name=Sources
