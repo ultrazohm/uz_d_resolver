@@ -102,7 +102,7 @@ DocumentUniqueId=
 
 [Document4]
 DocumentPath=TopSheet.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -153,7 +153,7 @@ DocumentUniqueId=ULOAWBMK
 
 [Document7]
 DocumentPath=Buffer_EXC.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -170,7 +170,7 @@ DocumentUniqueId=LOPHOCDG
 
 [Document8]
 DocumentPath=Impedance converter.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -458,24 +458,24 @@ DocumentPath=Project Outputs for UZ_D_Template\Net Status - Resolver.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectRevision
-Value=Rev01
+Name=Author
+Value=Martin Bauer
 
 [Parameter2]
-Name=ProjectNameCustom
-Value=UZ_D_Resolver
+Name=AuthorParam
+Value=Martin Bauer
 
 [Parameter3]
 Name=Date
 Value=20/01/2023
 
 [Parameter4]
-Name=AuthorParam
-Value=Martin Bauer
+Name=ProjectNameCustom
+Value=UZ_D_Resolver
 
 [Parameter5]
-Name=Author
-Value=Martin Bauer
+Name=ProjectRevision
+Value=Rev01
 
 [Configuration1]
 Name=Sources
