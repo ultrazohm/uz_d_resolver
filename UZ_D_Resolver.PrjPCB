@@ -428,7 +428,7 @@ UniqueID=CCCAA7CA-0A44-4B2C-B029-39AF63BFB225
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=46
+VariationCount=49
 Variation1=Designator=R11A|UniqueId=\1GCDQYXZE\BTBIBFPP|Kind=1|AlternatePart= 
 Variation2=Designator=R11B|UniqueId=\2GCDQYXZE\BTBIBFPP|Kind=1|AlternatePart= 
 Variation3=Designator=R11C|UniqueId=\3GCDQYXZE\BTBIBFPP|Kind=1|AlternatePart= 
@@ -475,6 +475,9 @@ Variation43=Designator=J6A|UniqueId=\1GCDQYXZE\GSETOXXQ\TPESPKCD|Kind=1|Alternat
 Variation44=Designator=J5B|UniqueId=\2GCDQYXZE\GSETOXXQ\KVHGSUUD|Kind=1|AlternatePart= 
 Variation45=Designator=J6C|UniqueId=\3GCDQYXZE\GSETOXXQ\TPESPKCD|Kind=1|AlternatePart= 
 Variation46=Designator=J6B|UniqueId=\2GCDQYXZE\GSETOXXQ\TPESPKCD|Kind=1|AlternatePart= 
+Variation47=Designator=P?A|UniqueId=\1GCDQYXZE\GSETOXXQ\LMRJJCCH|Kind=1|AlternatePart= 
+Variation48=Designator=P?C|UniqueId=\3GCDQYXZE\GSETOXXQ\LMRJJCCH|Kind=1|AlternatePart= 
+Variation49=Designator=P?B|UniqueId=\2GCDQYXZE\GSETOXXQ\LMRJJCCH|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
