@@ -423,6 +423,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WUYEDRCC
 
+[Document23]
+DocumentPath=Resolver fuses.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NSGAHTPX
+
 [ProjectVariant1]
 UniqueID=CCCAA7CA-0A44-4B2C-B029-39AF63BFB225
 Description=Default
@@ -466,18 +483,18 @@ Variation34=Designator=J1|UniqueId=\LGUSEKVC\SVKQMANZ|Kind=1|AlternatePart=
 Variation35=Designator=J7A|UniqueId=\1GCDQYXZE\KDNBOLQT\DIPPXLEP|Kind=1|AlternatePart= 
 Variation36=Designator=J7B|UniqueId=\2GCDQYXZE\KDNBOLQT\DIPPXLEP|Kind=1|AlternatePart= 
 Variation37=Designator=J7C|UniqueId=\3GCDQYXZE\KDNBOLQT\DIPPXLEP|Kind=1|AlternatePart= 
-Variation38=Designator=J3B|UniqueId=\2GCDQYXZE\GUKEOGFK|Kind=1|AlternatePart= 
-Variation39=Designator=J3A|UniqueId=\1GCDQYXZE\GUKEOGFK|Kind=1|AlternatePart= 
-Variation40=Designator=J3C|UniqueId=\3GCDQYXZE\GUKEOGFK|Kind=1|AlternatePart= 
+Variation38=Designator=J3B|UniqueId=\2GCDQYXZE\DSHSKXWL|Kind=1|AlternatePart= 
+Variation39=Designator=J3A|UniqueId=\1GCDQYXZE\DSHSKXWL|Kind=1|AlternatePart= 
+Variation40=Designator=J3C|UniqueId=\3GCDQYXZE\DSHSKXWL|Kind=1|AlternatePart= 
 Variation41=Designator=J5A|UniqueId=\1GCDQYXZE\GSETOXXQ\KVHGSUUD|Kind=1|AlternatePart= 
 Variation42=Designator=J5C|UniqueId=\3GCDQYXZE\GSETOXXQ\KVHGSUUD|Kind=1|AlternatePart= 
 Variation43=Designator=J6A|UniqueId=\1GCDQYXZE\GSETOXXQ\TPESPKCD|Kind=1|AlternatePart= 
 Variation44=Designator=J5B|UniqueId=\2GCDQYXZE\GSETOXXQ\KVHGSUUD|Kind=1|AlternatePart= 
 Variation45=Designator=J6C|UniqueId=\3GCDQYXZE\GSETOXXQ\TPESPKCD|Kind=1|AlternatePart= 
 Variation46=Designator=J6B|UniqueId=\2GCDQYXZE\GSETOXXQ\TPESPKCD|Kind=1|AlternatePart= 
-Variation47=Designator=P?A|UniqueId=\1GCDQYXZE\GSETOXXQ\LMRJJCCH|Kind=1|AlternatePart= 
-Variation48=Designator=P?C|UniqueId=\3GCDQYXZE\GSETOXXQ\LMRJJCCH|Kind=1|AlternatePart= 
-Variation49=Designator=P?B|UniqueId=\2GCDQYXZE\GSETOXXQ\LMRJJCCH|Kind=1|AlternatePart= 
+Variation47=Designator=J8A|UniqueId=\1GCDQYXZE\GSETOXXQ\LMRJJCCH|Kind=1|AlternatePart= 
+Variation48=Designator=J8C|UniqueId=\3GCDQYXZE\GSETOXXQ\LMRJJCCH|Kind=1|AlternatePart= 
+Variation49=Designator=J8B|UniqueId=\2GCDQYXZE\GSETOXXQ\LMRJJCCH|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -658,42 +675,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=SIMetrixNetlist
-OutputName21=SIMetrix
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=SIMPLISNetlist
-OutputName22=SIMPLIS
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=XSpiceNetlist
-OutputName23=Mixed Sim Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -768,18 +755,6 @@ OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Harness Layout Drawing Print
-OutputName12=Harness Layout Drawing Prints
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=Harness Wiring Diagram Print
-OutputName13=Harness Wiring Diagram Prints
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -949,12 +924,6 @@ OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=Project History
-OutputName9=Project History
-OutputDocumentPath9=
-OutputVariantName9=[No Variations]
-OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1168,11 +1137,6 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Web ReviewOutputName
-OutputName12=Web Review Data
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1305,7 +1269,6 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
-Type120=1
 
 [Difference Levels]
 Type1=1
@@ -1497,13 +1460,13 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
+MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
 Type123=1
 Type124=1
 Type125=1
 Type126=1
-Type127=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
