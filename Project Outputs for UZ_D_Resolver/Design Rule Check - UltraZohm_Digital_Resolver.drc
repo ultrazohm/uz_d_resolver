@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\PC\Desktop\Sourcetree\uz_d_resolver\UltraZohm_Digital_Resolver.PcbDoc
-Date     : 26.01.2023
-Time     : 00:35:37
+Date     : 27.01.2023
+Time     : 11:50:52
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (InNetClass('DifferentialSignals')),(All)
 Rule Violations :0
@@ -15,10 +15,10 @@ Rule Violations :0
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
-Processing Rule : Un-Routed Net Constraint ( (InNetClass('15V_SingleEnded') or InNetClass('3V3_SingleEnded') or InNetClass('5V_SingleEnded') or InNetClass('DifferentialSignals')) )
+Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
-Processing Rule : Un-Routed Net Constraint ( (All) )
+Processing Rule : Un-Routed Net Constraint ( (InNetClass('15V_SingleEnded') or InNetClass('3V3_SingleEnded') or InNetClass('5V_SingleEnded') or InNetClass('DifferentialSignals')) )
 Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
@@ -42,37 +42,49 @@ Rule Violations :0
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Room U_ResolverC (Bounding Region = (36.221mm, 27.353mm, 196.221mm, 71.353mm) (InComponentClass('U_ResolverC'))
+Processing Rule : Room U_ResolverB (Bounding Region = (51.221mm, 59.853mm, 196.221mm, 93.353mm) (InComponentClass('U_ResolverB'))
 Rule Violations :0
 
-Processing Rule : Room Impedance ConverterB (Bounding Region = (96.221mm, 73.353mm, 186.221mm, 93.353mm) (InComponentClass('Impedance ConverterB'))
+Processing Rule : Room U_ResolverC (Bounding Region = (51.221mm, 27.353mm, 196.221mm, 59.853mm) (InComponentClass('U_ResolverC'))
+Rule Violations :0
+
+Processing Rule : Room U_Resolver fusesA (Bounding Region = (36.221mm, 82.353mm, 51.221mm, 93.353mm) (InComponentClass('U_Resolver fusesA'))
+   Violation between Room Definition: Between Room U_Resolver fusesA (Bounding Region = (36.221mm, 82.353mm, 51.221mm, 93.353mm) (InComponentClass('U_Resolver fusesA')) And SMT Small Component BS2A-HI1206T500R-10 (25.34mm,90.7mm) on Top Layer 
+Rule Violations :1
+
+Processing Rule : Room U_Resolver fusesC (Bounding Region = (36.221mm, 58.353mm, 51.221mm, 69.353mm) (InComponentClass('U_Resolver fusesC'))
+   Violation between Room Definition: Between Room U_Resolver fusesC (Bounding Region = (36.221mm, 58.353mm, 51.221mm, 69.353mm) (InComponentClass('U_Resolver fusesC')) And SMT Small Component BS2C-HI1206T500R-10 (25.34mm,24.54mm) on Top Layer 
+Rule Violations :1
+
+Processing Rule : Room U_Resolver fusesB (Bounding Region = (36.221mm, 70.353mm, 51.221mm, 81.353mm) (InComponentClass('U_Resolver fusesB'))
+   Violation between Room Definition: Between Room U_Resolver fusesB (Bounding Region = (36.221mm, 70.353mm, 51.221mm, 81.353mm) (InComponentClass('U_Resolver fusesB')) And SMT Small Component BS2B-HI1206T500R-10 (25.34mm,57.62mm) on Top Layer 
+Rule Violations :1
+
+Processing Rule : Room U_ResolverA (Bounding Region = (51.221mm, 92.853mm, 196.221mm, 126.353mm) (InComponentClass('U_ResolverA'))
 Rule Violations :0
 
 Processing Rule : Room Impedance ConverterA (Bounding Region = (96.221mm, 106.353mm, 186.221mm, 126.353mm) (InComponentClass('Impedance ConverterA'))
 Rule Violations :0
 
-Processing Rule : Room U_ResolverA (Bounding Region = (36.221mm, 76.353mm, 196.221mm, 126.353mm) (InComponentClass('U_ResolverA'))
-Rule Violations :0
-
-Processing Rule : Room Impedance ConverterC (Bounding Region = (96.221mm, 40.353mm, 186.221mm, 60.353mm) (InComponentClass('Impedance ConverterC'))
+Processing Rule : Room Buffer_EXCB (Bounding Region = (96.221mm, 60.353mm, 186.221mm, 83.353mm) (InComponentClass('Buffer_EXCB'))
 Rule Violations :0
 
 Processing Rule : Room Buffer_EXCC (Bounding Region = (96.221mm, 27.353mm, 186.221mm, 50.353mm) (InComponentClass('Buffer_EXCC'))
 Rule Violations :0
 
-Processing Rule : Room Buffer_EXCB (Bounding Region = (96.221mm, 60.353mm, 186.221mm, 83.353mm) (InComponentClass('Buffer_EXCB'))
-Rule Violations :0
-
-Processing Rule : Room U_ResolverB (Bounding Region = (36.221mm, 60.353mm, 196.221mm, 93.353mm) (InComponentClass('U_ResolverB'))
-Rule Violations :0
-
 Processing Rule : Room Buffer_EXCA (Bounding Region = (96.221mm, 93.353mm, 186.221mm, 116.353mm) (InComponentClass('Buffer_EXCA'))
+Rule Violations :0
+
+Processing Rule : Room Impedance ConverterC (Bounding Region = (96.221mm, 40.353mm, 186.221mm, 60.353mm) (InComponentClass('Impedance ConverterC'))
+Rule Violations :0
+
+Processing Rule : Room Impedance ConverterB (Bounding Region = (96.221mm, 73.353mm, 186.221mm, 93.353mm) (InComponentClass('Impedance ConverterB'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=50mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 3
 Waived Violations : 0
 Time Elapsed        : 00:00:02
