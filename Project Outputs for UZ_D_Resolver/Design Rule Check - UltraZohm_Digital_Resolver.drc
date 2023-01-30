@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\PC\Desktop\Sourcetree\uz_d_resolver\UltraZohm_Digital_Resolver.PcbDoc
-Date     : 27.01.2023
-Time     : 17:52:44
+Date     : 30.01.2023
+Time     : 19:23:48
 
 Processing Rule : Clearance Constraint (Gap=0.1mm) (InNetClass('DifferentialSignals')),(All)
 Rule Violations :0
@@ -56,7 +56,6 @@ Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Arc (146.405mm,9.735mm) on Top Overlay And Board Edge 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Arc (146.405mm,90.265mm) on Top Overlay And Board Edge 
    Violation between Board Outline Clearance(Outline Edge): (0.4mm < 0.5mm) Between Board Edge And Text "3V3" (-10mm,45.6mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Text "Serial1" (94.825mm,98.818mm) on Bottom Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Track (128.7mm,2.5mm)(141.1mm,2.5mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Track (128.7mm,33.3mm)(141.1mm,33.3mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Track (128.7mm,34.6mm)(141.1mm,34.6mm) on Top Overlay 
@@ -75,7 +74,7 @@ Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Track (147.1mm,41.835mm)(147.1mm,58.165mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Track (147.1mm,73.935mm)(147.1mm,90.265mm) on Top Overlay 
    Violation between Board Outline Clearance(Outline Edge): (Collision < 0.5mm) Between Board Edge And Track (147.1mm,9.735mm)(147.1mm,26.065mm) on Top Overlay 
-Rule Violations :32
+Rule Violations :31
 
 Processing Rule : Room U_ResolverB (Bounding Region = (51.221mm, 59.853mm, 196.221mm, 93.353mm) (InComponentClass('U_ResolverB'))
 Rule Violations :0
@@ -83,7 +82,7 @@ Rule Violations :0
 Processing Rule : Room U_Resolver fusesA (Bounding Region = (36.221mm, 82.353mm, 76.221mm, 121.353mm) (InComponentClass('U_Resolver fusesA'))
 Rule Violations :0
 
-Processing Rule : Room U_ResolverC (Bounding Region = (51.221mm, 27.353mm, 196.221mm, 59.853mm) (InComponentClass('U_ResolverC'))
+Processing Rule : Room U_ResolverC (Bounding Region = (51.221mm, 26.853mm, 196.221mm, 60.353mm) (InComponentClass('U_ResolverC'))
 Rule Violations :0
 
 Processing Rule : Room U_ResolverA (Bounding Region = (51.221mm, 92.853mm, 196.221mm, 126.353mm) (InComponentClass('U_ResolverA'))
@@ -117,6 +116,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=50mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 32
+Violations Detected : 31
 Waived Violations : 0
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:02
