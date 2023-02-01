@@ -457,12 +457,46 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document25]
+DocumentPath=SG-8018CE_8.1920M-TJHPA0\OSCCC320X250X120N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KQQRFBDA
+
+[Document26]
+DocumentPath=SG-8018CE_8.1920M-TJHPA0\SG-8018CE_8.1920M-TJHPA0.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FHTRAKUB
+
 [ProjectVariant1]
 UniqueID=CCCAA7CA-0A44-4B2C-B029-39AF63BFB225
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=54
+VariationCount=50
 Variation1=Designator=R11A|UniqueId=\1GCDQYXZE\BTBIBFPP|Kind=1|AlternatePart= 
 Variation2=Designator=R11B|UniqueId=\2GCDQYXZE\BTBIBFPP|Kind=1|AlternatePart= 
 Variation3=Designator=R11C|UniqueId=\3GCDQYXZE\BTBIBFPP|Kind=1|AlternatePart= 
@@ -496,27 +530,23 @@ Variation30=Designator=R4B|UniqueId=\2GCDQYXZE\BFHTMPKL|Kind=1|AlternatePart=
 Variation31=Designator=R51A|UniqueId=\1GCDQYXZE\ZQJIGQIH|Kind=1|AlternatePart= 
 Variation32=Designator=R51C|UniqueId=\3GCDQYXZE\ZQJIGQIH|Kind=1|AlternatePart= 
 Variation33=Designator=R51B|UniqueId=\2GCDQYXZE\ZQJIGQIH|Kind=1|AlternatePart= 
-Variation34=Designator=J1|UniqueId=\LGUSEKVC\SVKQMANZ|Kind=1|AlternatePart= 
-Variation35=Designator=J7A|UniqueId=\1GCDQYXZE\KDNBOLQT\DIPPXLEP|Kind=1|AlternatePart= 
-Variation36=Designator=J7B|UniqueId=\2GCDQYXZE\KDNBOLQT\DIPPXLEP|Kind=1|AlternatePart= 
-Variation37=Designator=J7C|UniqueId=\3GCDQYXZE\KDNBOLQT\DIPPXLEP|Kind=1|AlternatePart= 
-Variation38=Designator=J3B|UniqueId=\2GCDQYXZE\DSHSKXWL|Kind=1|AlternatePart= 
-Variation39=Designator=J3A|UniqueId=\1GCDQYXZE\DSHSKXWL|Kind=1|AlternatePart= 
-Variation40=Designator=J3C|UniqueId=\3GCDQYXZE\DSHSKXWL|Kind=1|AlternatePart= 
-Variation41=Designator=J5A|UniqueId=\1GCDQYXZE\GSETOXXQ\KVHGSUUD|Kind=1|AlternatePart= 
-Variation42=Designator=J5C|UniqueId=\3GCDQYXZE\GSETOXXQ\KVHGSUUD|Kind=1|AlternatePart= 
-Variation43=Designator=J6A|UniqueId=\1GCDQYXZE\GSETOXXQ\TPESPKCD|Kind=1|AlternatePart= 
-Variation44=Designator=J5B|UniqueId=\2GCDQYXZE\GSETOXXQ\KVHGSUUD|Kind=1|AlternatePart= 
-Variation45=Designator=J6C|UniqueId=\3GCDQYXZE\GSETOXXQ\TPESPKCD|Kind=1|AlternatePart= 
-Variation46=Designator=J6B|UniqueId=\2GCDQYXZE\GSETOXXQ\TPESPKCD|Kind=1|AlternatePart= 
-Variation47=Designator=J8A|UniqueId=\1GCDQYXZE\GSETOXXQ\LMRJJCCH|Kind=1|AlternatePart= 
-Variation48=Designator=J8C|UniqueId=\3GCDQYXZE\GSETOXXQ\LMRJJCCH|Kind=1|AlternatePart= 
-Variation49=Designator=J8B|UniqueId=\2GCDQYXZE\GSETOXXQ\LMRJJCCH|Kind=1|AlternatePart= 
-Variation50=Designator=C29C|UniqueId=\3GCDQYXZE\WNCGWZUK|Kind=1|AlternatePart= 
-Variation51=Designator=C29B|UniqueId=\2GCDQYXZE\WNCGWZUK|Kind=1|AlternatePart= 
-Variation52=Designator=C29A|UniqueId=\1GCDQYXZE\WNCGWZUK|Kind=1|AlternatePart= 
-Variation53=Designator=R1|UniqueId=\LGUSEKVC\ZAPGXOLU|Kind=1|AlternatePart= 
-Variation54=Designator=J1|UniqueId=\LGUSEKVC\OCCXOLTT|Kind=1|AlternatePart= 
+Variation34=Designator=J7A|UniqueId=\1GCDQYXZE\KDNBOLQT\DIPPXLEP|Kind=1|AlternatePart= 
+Variation35=Designator=J7B|UniqueId=\2GCDQYXZE\KDNBOLQT\DIPPXLEP|Kind=1|AlternatePart= 
+Variation36=Designator=J7C|UniqueId=\3GCDQYXZE\KDNBOLQT\DIPPXLEP|Kind=1|AlternatePart= 
+Variation37=Designator=J3B|UniqueId=\2GCDQYXZE\DSHSKXWL|Kind=1|AlternatePart= 
+Variation38=Designator=J3A|UniqueId=\1GCDQYXZE\DSHSKXWL|Kind=1|AlternatePart= 
+Variation39=Designator=J3C|UniqueId=\3GCDQYXZE\DSHSKXWL|Kind=1|AlternatePart= 
+Variation40=Designator=J5A|UniqueId=\1GCDQYXZE\GSETOXXQ\KVHGSUUD|Kind=1|AlternatePart= 
+Variation41=Designator=J5C|UniqueId=\3GCDQYXZE\GSETOXXQ\KVHGSUUD|Kind=1|AlternatePart= 
+Variation42=Designator=J6A|UniqueId=\1GCDQYXZE\GSETOXXQ\TPESPKCD|Kind=1|AlternatePart= 
+Variation43=Designator=J5B|UniqueId=\2GCDQYXZE\GSETOXXQ\KVHGSUUD|Kind=1|AlternatePart= 
+Variation44=Designator=J6C|UniqueId=\3GCDQYXZE\GSETOXXQ\TPESPKCD|Kind=1|AlternatePart= 
+Variation45=Designator=J6B|UniqueId=\2GCDQYXZE\GSETOXXQ\TPESPKCD|Kind=1|AlternatePart= 
+Variation46=Designator=J8A|UniqueId=\1GCDQYXZE\GSETOXXQ\LMRJJCCH|Kind=1|AlternatePart= 
+Variation47=Designator=J8C|UniqueId=\3GCDQYXZE\GSETOXXQ\LMRJJCCH|Kind=1|AlternatePart= 
+Variation48=Designator=J8B|UniqueId=\2GCDQYXZE\GSETOXXQ\LMRJJCCH|Kind=1|AlternatePart= 
+Variation49=Designator=R1|UniqueId=\LGUSEKVC\ZAPGXOLU|Kind=1|AlternatePart= 
+Variation50=Designator=J1|UniqueId=\LGUSEKVC\OCCXOLTT|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -1882,9 +1912,9 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=user.DbLib/Capacitors - SMD
-ComponentDesignItemID0=C0603C104K5RAC3121
-ComponentSymbolReference0=Capacitor
+ComponentLibraryIdentifier0=SG-8018CE_8.1920M-TJHPA0.SchLib
+ComponentDesignItemID0=SG-8018CE_8.1920M-TJHPA0
+ComponentSymbolReference0=SG-8018CE_8.1920M-TJHPA0
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1904,62 +1934,22 @@ ParameterName0=Comment
 ParameterUpdate0=1
 ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Component Type
+ParameterName2=Description
 ParameterUpdate2=1
-ParameterName3=ComponentLink1Description
+ParameterName3=LCSC Part Number
 ParameterUpdate3=1
-ParameterName4=ComponentLink1URL
+ParameterName4=Library Reference
 ParameterUpdate4=1
-ParameterName5=Created from
+ParameterName5=MF
 ParameterUpdate5=1
-ParameterName6=Created On
+ParameterName6=MPN
 ParameterUpdate6=1
-ParameterName7=Description
+ParameterName7=Value
 ParameterUpdate7=1
-ParameterName8=Device Package
-ParameterUpdate8=1
-ParameterName9=Last Updated
-ParameterUpdate9=1
-ParameterName10=LCSC Part Number
-ParameterUpdate10=1
-ParameterName11=Library Reference
-ParameterUpdate11=1
-ParameterName12=Live Cycle Status
-ParameterUpdate12=1
-ParameterName13=Manufacturer
-ParameterUpdate13=1
-ParameterName14=Manufacturer Part Number
-ParameterUpdate14=1
-ParameterName15=Mounting Type
-ParameterUpdate15=1
-ParameterName16=Operating Temperature
-ParameterUpdate16=1
-ParameterName17=PartID
-ParameterUpdate17=1
-ParameterName18=Series
-ParameterUpdate18=1
-ParameterName19=Stock number
-ParameterUpdate19=1
-ParameterName20=Supplier 1
-ParameterUpdate20=1
-ParameterName21=Supplier 2
-ParameterUpdate21=1
-ParameterName22=Supplier Part Number 1
-ParameterUpdate22=1
-ParameterName23=Supplier Part Number 2
-ParameterUpdate23=1
-ParameterName24=Tolerance
-ParameterUpdate24=1
-ParameterName25=Type
-ParameterUpdate25=1
-ParameterName26=Value
-ParameterUpdate26=1
-ParameterName27=Voltage Rating
-ParameterUpdate27=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=C_0603
+ModelName0=OSCCC320X250X120N
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
