@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: UltraZohm_Digital_Resolver.PcbDoc   02.02.2023  08:08:07
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : UltraZohm_Digital_Resolver.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             297       PTH        56.73inch (1440.83mm)
+T2      12mil (0.3mm)                                             Round             46        PTH        17.50inch (444.46mm)
+T3      35mil (0.9mm)                                             Round             58        PTH        24.97inch (634.36mm)
+T4      43mil (1.09mm)                                            Round             27        PTH        5.21inch (132.24mm)
+T5      128mil (3.26mm)                                           Round             6         PTH        3.51inch (89.19mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              434
+
+Total Processing Time (hh:mm:ss) : 00:00:01
