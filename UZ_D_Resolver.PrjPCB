@@ -479,7 +479,7 @@ UniqueID=CCCAA7CA-0A44-4B2C-B029-39AF63BFB225
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=50
+VariationCount=53
 Variation1=Designator=R11A|UniqueId=\1GCDQYXZE\BTBIBFPP|Kind=1|AlternatePart= 
 Variation2=Designator=R11B|UniqueId=\2GCDQYXZE\BTBIBFPP|Kind=1|AlternatePart= 
 Variation3=Designator=R11C|UniqueId=\3GCDQYXZE\BTBIBFPP|Kind=1|AlternatePart= 
@@ -530,6 +530,9 @@ Variation47=Designator=J8C|UniqueId=\3GCDQYXZE\GSETOXXQ\LMRJJCCH|Kind=1|Alternat
 Variation48=Designator=J8B|UniqueId=\2GCDQYXZE\GSETOXXQ\LMRJJCCH|Kind=1|AlternatePart= 
 Variation49=Designator=R1|UniqueId=\LGUSEKVC\ZAPGXOLU|Kind=1|AlternatePart= 
 Variation50=Designator=J1|UniqueId=\LGUSEKVC\OCCXOLTT|Kind=1|AlternatePart= 
+Variation51=Designator=R14A|UniqueId=\1GCDQYXZE\XENXDVYA|Kind=1|AlternatePart= 
+Variation52=Designator=R14C|UniqueId=\3GCDQYXZE\XENXDVYA|Kind=1|AlternatePart= 
+Variation53=Designator=R14B|UniqueId=\2GCDQYXZE\XENXDVYA|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -541,24 +544,24 @@ DocumentPath=Project Outputs for UZ_D_Resolver\Design Rule Check - UltraZohm_Dig
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=Martin Bauer
+Name=ProjectRevision
+Value=Rev02
 
 [Parameter2]
-Name=AuthorParam
-Value=Martin Bauer
+Name=ProjectNameCustom
+Value=UZ_D_Resolver
 
 [Parameter3]
 Name=FinDate
 Value=02/2023
 
 [Parameter4]
-Name=ProjectNameCustom
-Value=UZ_D_Resolver
+Name=AuthorParam
+Value=Martin Bauer
 
 [Parameter5]
-Name=ProjectRevision
-Value=Rev01
+Name=Author
+Value=Martin Bauer
 
 [Configuration1]
 Name=Sources
@@ -1229,36 +1232,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
