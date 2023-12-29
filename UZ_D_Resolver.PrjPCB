@@ -547,24 +547,24 @@ DocumentPath=Project Outputs for UZ_D_Resolver\Design Rule Check - UltraZohm_Dig
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=M. Bauer / A. Geiger
+Name=ProjectRevision
+Value=Rev02
 
 [Parameter2]
-Name=AuthorParam
-Value=M. Bauer / A. Geiger
+Name=ProjectNameCustom
+Value=UZ_D_Resolver
 
 [Parameter3]
 Name=FinDate
 Value=12/2023
 
 [Parameter4]
-Name=ProjectNameCustom
-Value=UZ_D_Resolver
+Name=AuthorParam
+Value=M. Bauer / A. Geiger
 
 [Parameter5]
-Name=ProjectRevision
-Value=Rev03
+Name=Author
+Value=M. Bauer / A. Geiger
 
 [Configuration1]
 Name=Sources
